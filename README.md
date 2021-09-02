@@ -16,7 +16,7 @@ I used a scatter plot to compare the average mouse weight and average tumor volu
 
 I also used box plots to compare the effectiveness of each treatment.
 
-![alt text](https://github.com/KStrange89/matplotlib/blob/main/picture.png)
+![alt text](https://github.com/KStrange89/matplotlib_power/blob/main/picture.png)
 
 ## Key Findings
 
